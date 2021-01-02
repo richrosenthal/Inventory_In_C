@@ -1,0 +1,12 @@
+     Erie Industrial Supply Corporation     
+Invoice Date: 2/12/2017
+134276 Framis-R 8 7.35 58.8
+125790 Framis-L 12 15.76 189.12
+100086 Aglet 395 0.11 43.45
+Total ……………………………………………………………………………291.37
+
+Invoice Date: 1/23/2017
+135876 Wrench 12 22.5 270
+543287 Henway 4 19.25 77
+Total ……………………………………………………………………………347
+

@@ -1,0 +1,3 @@
+/Users/richardrosenthal/CLionProjects/Project_2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/richardrosenthal/CLionProjects/Project_2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/richardrosenthal/CLionProjects/Project_2/cmake-build-debug/CMakeFiles/Project_2.dir
